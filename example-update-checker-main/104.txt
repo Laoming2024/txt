@@ -1,7 +1,5 @@
 节点一信息
-节点延迟：{"placeholder":"serverping","values":{"ip":"cn-cd-dx-tmp16.natfrp.cloud:21420
-"}}ms
-服务器版本：Java {"placeholder":"serverversion","values":{"ip":"cn-cd-dx-tmp16.natfrp.cloud:21420
-"}}版本
-服务器玩家数量：{"placeholder":"serverplayercount","values":{"ip":"cn-cd-dx-tmp16.natfrp.cloud:21420"}}
-是否开放：{"placeholder":"serverstatus","values":{"ip":"cn-cd-dx-tmp16.natfrp.cloud:21420"}}
+节点延迟：{"placeholder":"serverping","values":{"ip":"frp-mom.top:21420"}}ms
+服务器版本：Java {"placeholder":"serverversion","values":{"ip":"frp-mom.top:21420"}}版本
+服务器玩家数量：{"placeholder":"serverplayercount","values":{"ip":"frp-mom.top:21420"}}
+是否开放：{"placeholder":"serverstatus","values":{"ip":"frp-mom.top:21420"}}
