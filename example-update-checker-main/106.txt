@@ -1,0 +1,5 @@
+节点六信息
+节点延迟：{"placeholder":"serverping","values":{"ip":"frp-hub.top:31209"}}ms
+服务器版本：Java {"placeholder":"serverversion","values":{"ip":"frp-hub.top:31209"}}版本
+服务器玩家数量：{"placeholder":"serverplayercount","values":{"ip":"frp-hub.top:31209"}}
+是否开放：{"placeholder":"serverstatus","values":{"ip":"frp-hub.top:31209"}}
