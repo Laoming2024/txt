@@ -1,0 +1,9 @@
+节点五信息
+节点延迟：{"placeholder":"serverping","values":{"ip":"frp-gym.top:25103
+"}}ms
+服务器版本：Java {"placeholder":"serverversion","values":{"ip":"frp-gym.top:25103
+"}}版本
+服务器玩家数量：{"placeholder":"serverplayercount","values":{"ip":"frp-gym.top:25103
+"}}
+是否开放：{"placeholder":"serverstatus","values":{"ip":"frp-gym.top:25103
+"}}

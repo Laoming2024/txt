@@ -1,0 +1,5 @@
+节点三信息
+节点延迟：{"placeholder":"serverping","values":{"ip":"frp-lab.top:15485"}}ms
+服务器版本：Java {"placeholder":"serverversion","values":{"ip":"frp-lab.top:15485"}}版本
+服务器玩家数量：{"placeholder":"serverplayercount","values":{"ip":"frp-lab.top:15485"}}
+是否开放：{"placeholder":"serverstatus","values":{"ip":"frp-lab.top:15485"}}
